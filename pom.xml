@@ -9,7 +9,7 @@
 	<packaging>jar</packaging>
 	<name>Configuration</name>
 	<description>
-		This module contains the definition of the configuration manager
+		Typesafe config wrapper for Inveasy framework
 	</description>
 
     <version>1.0.0</version>
@@ -73,8 +73,8 @@
 
 	<distributionManagement>
 		<repository>
-			<id>bintray-inveasy-Maven</id>
-			<name>inveasy-Maven</name>
+			<id>bintray-inveasy-maven</id>
+			<name>inveasy-maven</name>
 			<url>https://api.bintray.com/maven/inveasy/maven/configuration/;publish=1</url>
 		</repository>
 	</distributionManagement>

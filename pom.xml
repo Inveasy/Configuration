@@ -34,12 +34,12 @@
 	</licenses>
 
 	<scm>
-		<url>https://github.com/Inveasy/configuration</url>
+		<url>https://github.com/Inveasy/Configuration</url>
 	</scm>
 
 	<issueManagement>
 		<system>Github</system>
-		<url>https://github.com/Inveasy/configuration/issues</url>
+		<url>https://github.com/Inveasy/Configuration/issues</url>
 	</issueManagement>
 
 	<properties>
@@ -75,7 +75,7 @@
 		<repository>
 			<id>bintray-inveasy-Maven</id>
 			<name>inveasy-Maven</name>
-			<url>https://api.bintray.com/maven/inveasy/Maven/Configuration/;publish=1</url>
+			<url>https://api.bintray.com/maven/inveasy/maven/configuration/;publish=1</url>
 		</repository>
 	</distributionManagement>
 
